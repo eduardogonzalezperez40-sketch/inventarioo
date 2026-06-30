@@ -1,0 +1,578 @@
+{
+  "Dirección y áreas administrativas": [
+    {
+      "dep": "Dirección y áreas administrativas",
+      "id": "1-CB00230653",
+      "comp": "6",
+      "sist": "6",
+      "mant": "Mas de un Año",
+      "obs": "El equipo está incompleto ya que le hace falta un Teclado, Mouse y un cable que alimente la computadora y en cuestión del sistema funciona perfectamente abriendo bien los programas Y dentro de dirección hay 3 CPU sin funcionamiento con ID (CB00211763, CB00246658, CB00211750) y hay 2 equipos sin funcionamiento por falta de cables "
+    },
+    {
+      "dep": "Direccion",
+      "id": "2-CB00248268",
+      "comp": "8",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo está en buen estado y cuenta con Windows 10 pro y cuenta con una licencia de Office 2019 y en cuanto a el sistema abre perfectamente sus programas "
+    },
+    {
+      "dep": "Dirección",
+      "id": "3-CB00362391",
+      "comp": "7",
+      "sist": "6",
+      "mant": "Mas de un Año",
+      "obs": "El equipo está en condiciones regulares pero el sistema está muy deplorable, cuenta con Windows 10 Home pero demora mucho en abrír los programas y es un Equipo que debería de estar en mejores condiciones por ser el centro de información del departamento de dirección siendo este equipo con un ID de CB00262392"
+    },
+    {
+      "dep": "Dirección",
+      "id": "4-CB00211751",
+      "comp": "6",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo presenta manchaduras en el teclado con ID(SAMI193943) Y también presenta un derrame de tinta en la pantalla y el Sistema demora en abrir los programas"
+    },
+    {
+      "dep": "Dirección",
+      "id": "5-CB00196817",
+      "comp": "-",
+      "sist": "-",
+      "mant": "-",
+      "obs": "-"
+    },
+    {
+      "dep": "Dirección",
+      "id": "6-CB00211756",
+      "comp": "9",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo está en buen estado no presenta rayaduras  y el equipo cuenta con una actualización de Windows 10 pro pero en cuestión de sistema la memoria RAM es insuficiente porque al momento de abrir varios programas el equipo empieza a alentarse demasiado lo que impide su uso "
+    },
+    {
+      "dep": "Dirección",
+      "id": "7-CB00193355",
+      "comp": "7",
+      "sist": "6",
+      "mant": "Mas de un Año",
+      "obs": "El equipo presenta fallas en el teclado ya que algunas teclas no escriben con ID (SAMI038457) y el sistema demora en cargar y abrir los programas siendo un equipo que casi no se usa "
+    },
+    {
+      "dep": "Dirección",
+      "id": "8-CB00268074",
+      "comp": "7",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo presenta manchas en el teclado con ID (SAMI180789) En cuestión de sistema cuenta con WINDOWS 10 pro  y los programas abren perfectamente"
+    },
+    {
+      "dep": "Dirección",
+      "id": "9-CB00180775",
+      "comp": "8",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo esta en buen estado y el sistema igual esta en buen estado y los programas abren perfectamente pero no cuenta con una actualización de Windows 11 y cuenta con una de Windows 7 lo que hace que el equipo no tenga mas funciones "
+    },
+    {
+      "dep": "Dirección",
+      "id": "10-CB00211098",
+      "comp": "7",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo esta en regulares condiciones ya que presenta unas cuantas manchas en el CPU y el sistema está demorando mucho en abrir los programas y eso dificulta el trabajo ya que es un equipo que tiene archivos importantes que se siguen usando "
+    },
+    {
+      "dep": "Dirección",
+      "id": "11-",
+      "comp": "9",
+      "sist": "9",
+      "mant": "Mas de un Año",
+      "obs": "El equipo y su sistema están en buenas condiciones pero el equipo no cuenta con ninguna matrícula por registrar, la cual es un equipo que debería ser el centro de información del departamento de dirección  ya que es uno de los mejores equipos de Dirección "
+    }
+  ],
+  "Laboratorio de informática I": [
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "1-CB00236517",
+      "comp": "8",
+      "sist": "9",
+      "mant": "Mas de un Año",
+      "obs": "El equipo esta en buen estado y el sistema abre correctamente los programas "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "2-CB00236513",
+      "comp": "7",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo esta en un estado regular y el sistema ejecuta bien los programas pero demora en abrirlos "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "3-CB00236505",
+      "comp": "8",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo esta en buenas condiciones y el sistema tarda en abrir los programas y el equipo esta en buen estado"
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "4-CB00236521",
+      "comp": "8",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo esta en buenas condiciones y el  sistema tarda en abrir los programas y el equipo esta en buenas condiciones "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "5-CB00236509",
+      "comp": "7",
+      "sist": "5",
+      "mant": "Mas de un Año",
+      "obs": "El equipo esta en condiciones regulares y el sistema tarda mucho en abrir los programas Exel, Google "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "6-CB00236453",
+      "comp": "8",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo esta en buenas condiciones pero el sistema demora en abrir los programas "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "7-CB00236449",
+      "comp": "5",
+      "sist": "6",
+      "mant": "Mas de un Año",
+      "obs": "El equipo presenta un teclado muy dañado con ID(18-8306) y los programas demora en abrirlos "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "8-CB00236461",
+      "comp": "8",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo está en buenas condiciones pero con un ligero tardamiento en el sistema en abrir Google y Word "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "9-CB00236445",
+      "comp": "8",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo está en buen estado y sus sistemas funcionan correctamente "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "10-CB00236473",
+      "comp": "8",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo está en buenas condiciones pero el sistema tiene un ligero tardamiento en abrir Word, Google"
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "11-CB00236481",
+      "comp": "7",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El teclado presenta rayaduras y su sistema tarda un poco en abrir los programas "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "12-CB00236489",
+      "comp": "8",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo está en buen estado pero los programas Word y Archivos demoran en abrir "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "13-CB00236497",
+      "comp": "8",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo de computo y los sistemas estan en buenas condiciones "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "14-CB00236469",
+      "comp": "8",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo esta en buenas condiciones pero el sistema tarda en abrir los programas Word, Archivos y Google "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "15-CB00236501",
+      "comp": "8",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo esta en buenas condiciones pero el sistema tarda en abrir los  programas Google y Archivos "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "16-CB00236477",
+      "comp": "7",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo presenta manchas en el marco de la computadora y el sistema abre correctamente los programas "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "17-CB00236457",
+      "comp": "8",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo está en buen estado y sus sistemas funcionan correctamente "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "18-CB00236425",
+      "comp": "8",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo está en buen estado y sus sistemas funcionan correctamente "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "19",
+      "comp": "-",
+      "sist": "-",
+      "mant": "-",
+      "obs": "Sin equipo "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "20-CB00236465",
+      "comp": "8",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo está en buen estado y sus sistemas funcionan correctamente"
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "21-CB00236537",
+      "comp": "8",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo está en buen estado y sus sistemas funcionan correctamente"
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "22-CB00236485",
+      "comp": "8",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo está en buen estado pero el sistema tarda un poco en abrir los programas "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "23-CB00236493",
+      "comp": "8",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo está en buen estado y sus sistemas funcionan correctamente"
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "24-CB00236441",
+      "comp": "8",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo está en buenas condiciones pero con un ligero tardamiento en abrir los programas Google y Exel"
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "25-CB00236533",
+      "comp": "8",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo esta en buen estado y sus sistemas funcionan correctamente "
+    },
+    {
+      "dep": "Laboratorio de informática I",
+      "id": "-",
+      "comp": "-",
+      "sist": "-",
+      "mant": "-",
+      "obs": "LA RAZON POR LA QUE LOS EQUIPOS COMPUTACIONALES NO SUPERAN UNA CALIFICACION DE 9 ES PORQUE LES HACE FALTA LIMPIEZA YA QUE PRESENTAN POLVO EN TODOS LOS EQUIPOS TANTO COMPUTADORAS, TECLADOS,CPU Y EL SISTEMA ESTA ACUALIZADO AL WINDOWS 7 "
+    }
+  ],
+  "Laboratorio de informática II": [
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "1-CB00211748",
+      "comp": "6",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo esta en malas condiciones  ya que el mause con ID (SAM1211842) no funciona correctamente"
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "2-CB00211765",
+      "comp": "7",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo presenta rayaduras  en el marco de la computradora y su sistema funcionan correctamente "
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "3-",
+      "comp": "-",
+      "sist": "-",
+      "mant": "-",
+      "obs": "NO CUENTA CON CPU"
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "4-CB00211744",
+      "comp": "7",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo presenta manchas en el teclado con ID (SAM211804) y el sistema abre correctamente los programas "
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "5-CB00211755",
+      "comp": "7",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "EL equipo presenta manchas en el teclado con ID(SAM1211798) y demora en abrir los programas "
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "6-",
+      "comp": "-",
+      "sist": "-",
+      "mant": "-",
+      "obs": "NO CUENTA CON CPU"
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "7-CB00211758",
+      "comp": "8",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo esta en buenas condiciones y el sistema abre bien los programas "
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "8-CB00211747",
+      "comp": "8",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo esta en buenas condiciones y el sistema abre correctamente los programas "
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "9-CB00211755",
+      "comp": "7",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo esta en condiciones regulares  y el sistema abre correctamente los programas pero no se puede utilizar el navegador Google porque el equipo no tiene fecha actualizada"
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "10-CB00211753",
+      "comp": "6",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo presenta manchas y rayones en el teclado con ID(SAM1211807) y el sistema demora en abrir los programas "
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "11-CB00211767",
+      "comp": "7",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo presenta manchas en el teclado con ID(SAM1211820) y el sistema demora en abrir los programas"
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "12-",
+      "comp": "-",
+      "sist": "-",
+      "mant": "-",
+      "obs": "NO CUENTA CON CPU"
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "13-CB00211768",
+      "comp": "8",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo esta en buenas condiciones y el sistema ejecuta bien los programas "
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "14-CB00211766",
+      "comp": "7",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo presentá manchas en el teclado con ID (SAM1211808) Y el mouse no funciona correctamente con ID (SAM1211829)"
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "15-",
+      "comp": "-",
+      "sist": "-",
+      "mant": "-",
+      "obs": "NO CUENTA CON CPU"
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "16-CB00211760",
+      "comp": "7",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo presenta manchas en el teclado con ID (SAM1211810) y el sistema abre correctamente los programas "
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "17-CB00211745",
+      "comp": "7",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo presenta manchas en el teclado con ID (SAM1211817) y el sistema funciona correctamente "
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "18-CB00211757",
+      "comp": "7",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo esta en condiciones regulares y abre bien los programas pero no se puede usar el navegador Google porque el equipo no tiene fecha actualizada"
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "19-CB00211759",
+      "comp": "7",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo presenta manchas en el teclado con ID(SAM1211819) y tarda en abrir los programas"
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "20-CB00211746",
+      "comp": "6",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo en malas condiciones  presenta manchas en el marco de la computadoray el sistema  tarda en abrir los programas como Word y Google "
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "21-CB0021149",
+      "comp": "6",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo presenta rayaduras en el marco de la computadora y el sistema tarda en abrir los programas "
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "22-CB0021162",
+      "comp": "8",
+      "sist": "8",
+      "mant": "Mas de un Año",
+      "obs": "El equipo está en buenas condiciones y el sistema ejecuta bien los programas"
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "23-",
+      "comp": "-",
+      "sist": "-",
+      "mant": "-",
+      "obs": "NO CUENTA CON CPU"
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "24-CB0021161",
+      "comp": "6",
+      "sist": "6",
+      "mant": "Mas de un Año",
+      "obs": "El equipo presentá manchas en el teclado con ID (SAM1211815) y el sistema tarda un poco en abrir los programas "
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "25-",
+      "comp": "-",
+      "sist": "-",
+      "mant": "-",
+      "obs": "NO CUENTA CON CPU"
+    },
+    {
+      "dep": "Laboratorio de informática II",
+      "id": "-",
+      "comp": "-",
+      "sist": "-",
+      "mant": "-",
+      "obs": "Se detectó una falta de internet ocasionada por el deplorable estado del cableado y la falta de mantenimiento durante más de un año en todos los equipos acomulando mucho polvo , dejando la conexión en condiciones deplorables y se verificó la compatibilidad de Windows ya que cuenta con un Windows 7 y ya no es compatible con el software utilizado, con el fin de mejorar el funcionamiento de los equipos y la estabilidad de la red."
+    }
+  ],
+  "Biblioteca": [
+    {
+      "dep": "Biblioteca",
+      "id": "1-CB00196817",
+      "comp": "7",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El equipo presenta manchas en el teclado con ID SAMI196796 y el sistema demora en abrir los programas "
+    },
+    {
+      "dep": "Biblioteca",
+      "id": "2-CB00220992",
+      "comp": "-",
+      "sist": "-",
+      "mant": "-",
+      "obs": "NO CUENTA CON CPU"
+    },
+    {
+      "dep": "Biblioteca",
+      "id": "3-CB00223364",
+      "comp": "7",
+      "sist": "6",
+      "mant": "Mas de un Año",
+      "obs": "El equipo esta en buenas condiciones pero el sistema demora en abrir los programas principales y no cuenta con una version actualizada de Windows "
+    },
+    {
+      "dep": "Biblioteca",
+      "id": "4-CB0022",
+      "comp": "7",
+      "sist": "6",
+      "mant": "Mas de un Año",
+      "obs": "El equipo presenta manchas en el teclado con ID SAMI196812 y el sistema demora en abrir los programas con el Navegador, Word y al momento de apagar el equipo presenta un ruido el el CPU "
+    },
+    {
+      "dep": "Biblioteca",
+      "id": "5-CB00211754",
+      "comp": "9",
+      "sist": "9",
+      "mant": "Mas de un Año",
+      "obs": "El equipo y el sistema esta en muy buenas condiciones ya que no presenta manchaduras y el sistema abre correctamente todos los programas sin problema alguno"
+    },
+    {
+      "dep": "Biblioteca",
+      "id": "6-CB00220989",
+      "comp": "7",
+      "sist": "7",
+      "mant": "Mas de un Año",
+      "obs": "El sistema esta en regulares condiciones ya que el CPU presenta aberturas a los lados y el sistema no cuenta con la licencia de office actualizada "
+    },
+    {
+      "dep": "Biblioteca",
+      "id": "7-CB00223363",
+      "comp": "",
+      "sist": "",
+      "mant": "-",
+      "obs": "Al prender el equipo presenta un error en el sistema que evita entrar al sistema operativo "
+    },
+    {
+      "dep": "Biblioteca",
+      "id": "-",
+      "comp": "",
+      "sist": "",
+      "mant": "-",
+      "obs": "Hay 4 CPU sin funcionamiento por falta de equipo los cuales son ,CB00220987, CB00220990, CB00196805 y CB00220988 y una computadora con ID CB0019 6806 que no cuenta con CPU, Teclado y Mouse y ninguno de los equipos cuenta con una licencia actualizada de Office"
+    }
+  ]
+}
